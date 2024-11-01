@@ -16,12 +16,13 @@ Join us in empowering the next generation of professionals and transforming care
 
 ## Installation
 1. Clone the repository:
-```
+
+```git clone https://github.com/Fifiboss98/Handyskills.git
 
 ```
 2. Navigate to the directory:
 ```
-
+cd Handyskills
 ```
 3. Install dependencies and run the server:
 ```
